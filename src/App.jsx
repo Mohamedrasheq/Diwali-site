@@ -7,6 +7,7 @@ import Card2 from "./Card2";
 import Footer from "./Footer";
 import Contact from "./Contact";
 import Card3 from "./Card3";
+import Card4 from "./Card4";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         {/* Adjust this padding to fit your header height */}
         <Caurosel />
         <Card1 />
+        <Card4 />
         <Card3 />
         <Card2 />
         <Contact />
