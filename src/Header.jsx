@@ -7,7 +7,7 @@ const Header = () => {
       <div className="container mx-auto px-4">
         <nav className="flex items-center justify-between h-16">
           <a href="/" className="text-xl font-bold text-black">
-            YourLogo
+            SRI KRISHNA
           </a>
           <ul className="hidden md:flex space-x-6">
             <li>

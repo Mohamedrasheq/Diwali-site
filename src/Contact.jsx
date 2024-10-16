@@ -41,16 +41,18 @@ const Contact = () => {
         >
           <div className="flex items-center justify-center space-x-4">
             <Phone className="text-yellow-500 h-6 w-6" />
-            <span className="text-yellow-500">+1 (555) 123-4567</span>
+            <span className="text-yellow-500">+91 9865903344</span>
           </div>
           <div className="flex items-center justify-center space-x-4">
             <Mail className="text-yellow-500 h-6 w-6" />
-            <span className="text-yellow-500">contact@example.com</span>
+            <span className="text-yellow-500">
+              Srikannanpattasuulagam@gmail.com
+            </span>
           </div>
           <div className="flex items-center justify-center space-x-4">
             <MapPin className="text-yellow-500 h-6 w-6" />
             <span className="text-yellow-500">
-              123 Main St, Anytown, USA 12345
+              Ashram school bus stop Karur main road Solar Erode
             </span>
           </div>
         </motion.div>

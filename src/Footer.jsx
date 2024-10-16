@@ -16,13 +16,13 @@ const Footer = () => {
             </p>
             <div className="flex justify-center md:justify-start space-x-4">
               <a
-                href="#"
+                href="https://www.facebook.com/share/4DC7C4F4kg8FG6Hn/"
                 className="text-gray-400 hover:text-yellow-500 transition-colors duration-300"
               >
                 <Facebook size={24} />
               </a>
               <a
-                href="#"
+                href="https://www.instagram.com/sri_kannan_pattasu_ulagam?igsh=MW5sdHN4bDVvemV6ZA=="
                 className="text-gray-400 hover:text-yellow-500 transition-colors duration-300"
               >
                 <Instagram size={24} />
