@@ -92,12 +92,15 @@ const styles = {
     maxWidth: "1200px",
     margin: "0 auto",
     padding: "2rem 1rem",
+    backgroundColor: "black",
+    minHeight: "100vh",
   },
   title: {
     fontSize: "1.5rem",
     fontWeight: "bold",
     textAlign: "center",
     marginBottom: "1.5rem",
+    color: "#ffffff",
   },
   grid: {
     display: "grid",
@@ -106,20 +109,22 @@ const styles = {
   },
   card: {
     backgroundColor: "black",
-    color: "white",
+    color: "#ffffff",
     padding: "1rem",
     borderRadius: "0.5rem",
-    boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
-    transition: "box-shadow 0.3s ease",
+    boxShadow: "0 4px 6px rgba(255, 255, 255, 0.1)",
+    border: "1px solid #333",
   },
   cardTitle: {
     fontSize: "1.125rem",
     fontWeight: "bold",
     marginBottom: "0.5rem",
+    color: "#ffffff",
   },
   cardText: {
     fontSize: "0.875rem",
     marginBottom: "0.25rem",
+    color: "#cccccc",
   },
 };
 
