@@ -52,7 +52,7 @@ const Contact = () => {
           <div className="flex items-center justify-center space-x-4">
             <MapPin className="text-yellow-500 h-6 w-6" />
             <span className="text-yellow-500">
-              Ashram school bus stop Karur main road Solar Erode
+              Ashram school bus stop , Karur main road , Solar , Erode-638002.
             </span>
           </div>
         </motion.div>
